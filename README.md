@@ -61,4 +61,4 @@ python3 manage.py runserver
 Head over to [localhost:8000](http://localhost:8000/), or **Postman** to use the application
 
 ---
-<h3 align="center"><b>Developed with :heart: by Naman Shah</b></h3>
+<h3 align="center"><b>Developed by Radhika</b></h3>
